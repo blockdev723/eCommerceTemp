@@ -1,7 +1,7 @@
 # eCommerceTemp
 HTML5 Front End for eCommorce
 
-<img src=''></img>
+<img src='https://github.com/nastia723/eCommerceTemp/blob/master/img/intro.png' style="width: 546px; height: 310px"></img>
 
 Used library:
   Bootstrap, jQuery
