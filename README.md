@@ -1,6 +1,8 @@
 # eCommerceTemp
 HTML5 Front End for eCommorce
 
+<img src=''></img>
+
 Used library:
   Bootstrap, jQuery
 
